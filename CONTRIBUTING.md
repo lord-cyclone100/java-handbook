@@ -6,7 +6,7 @@ We’re excited that you’re interested in contributing to Java Handbook! Wheth
 
 ## Guidelines 📄
 
-- **Open Issues First**: Always create an [issue](https://www.google.com) before working on major changes.
+- **Open Issues First**: Always create an [issue](https://github.com/lord-cyclone100/java-handbook/issues/new) before working on major changes.
 - **Respectful Collaboration**: Be professional and respectful in all interactions.
 - **Stay Updated**: If any changes are requested during the review, please make them promptly.
 - **Documentation**: Update documentation if your changes affect usage or functionality.
@@ -65,4 +65,4 @@ Go to your forked repository on GitHub, and click the "Compare & pull request" b
 
 ## Thank for Contributing!
 
-We appreciate your contributions and are excited to collaborate with you to improve JavaScript Handbook. Happy coding! 🚀
+We appreciate your contributions and are excited to collaborate with you to improve Java Handbook. Happy coding! 🚀
