@@ -1,4 +1,5 @@
 <img src="./unnamed.png">
+
 ## Rules to keep in mind
 + If you have some enhancements to be made, new content to be added or fix bugs, first check currently active issues to check whether the issue is already existing or not before creating your own issue.
 
