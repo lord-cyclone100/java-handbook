@@ -14,15 +14,18 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## Overview
+## 🔥Overview
 *This Java handbook offers a comprehensive introduction of various concepts in Java. Whether you're a beginner or an experienced developer, this handbook will guide you through the world of Java using clear explanations and well-commented code examples*
 
-## Table of Contents
+## 📗Table of Contents
 1. [**Hello World Program**](./Hello_World/README.md).
 
 
-## Contributing
+## 🤝 Contributing
 If you are looking to contribute, please refer to the [**Contributing Guide**](https://github.com/lord-cyclone100/java-handbook/blob/main/CONTRIBUTING.md).
+
+## ❗Rules for Contributing
+Please keep these [**rules**](https://github.com/lord-cyclone100/java-handbook/blob/main/CONTRIBUTING.md) in mind before contributing.
 
 ## 🌟 Support
 If there are any questions pertaining to the project itself (usage or implementation wise), you may create an [**issue**](https://github.com/lord-cyclone100/java-handbook/issues).
