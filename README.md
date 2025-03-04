@@ -18,7 +18,7 @@
 *This Java handbook offers a comprehensive introduction of various concepts in Java. Whether you're a beginner or an experienced developer, this handbook will guide you through the world of Java using clear explanations and well-commented code examples*
 
 ## Table of Contents
-1. [**History**](./history/README.md).
+1. [**Hello World Program**](./history/README.md).
 
 
 ## Contributing
