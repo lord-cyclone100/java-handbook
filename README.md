@@ -20,7 +20,7 @@
 
 ## 📗Table of Contents
 1. [**Hello World Program**](./Hello_World/README.md)
-2. [**Introduction to java**](Introduction to Java/README.md)
+2. [**Introduction to java**](Introduction_to_Java/README.md)
 3. [**Variables and Methods**](./Variables%20and%20Methods/README.md)
 
 

@@ -12,7 +12,7 @@ enterprise software, and more.
 
 ---
 
-#### [Basic : Variables, Datatypes and Methods](../Variables and Methods/README.md)
+#### [Basic : Variables, Datatypes and Methods](../Variables_and_Methods/README.md)
 
 ---
 
