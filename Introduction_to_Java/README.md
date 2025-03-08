@@ -3,9 +3,11 @@
 ## Java Handbook
 
 ### Introduction to Java
+
 Java is a high-level, object-oriented programming language known for its platform independence (via the JVM),
 strong memory management, and rich ecosystem. It is widely used in web development, mobile apps (Android),
 enterprise software, and more.
+
 ---
 
 #### [Sample code](../Hello_World/README.md)
