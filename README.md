@@ -19,8 +19,9 @@
 *This Java handbook offers a comprehensive introduction of various concepts in Java. Whether you're a beginner or an experienced developer, this handbook will guide you through the world of Java using clear explanations and well-commented code examples*
 
 ## 📗Table of Contents
-1. [**Hello World Program**](./Hello_World/README.md).
-2. [**Variables and Mehods**](./Variables%20and%20Methods/README.md)
+1. [**Hello World Program**](./Hello_World/README.md)
+2. [**Introduction to java**](Introduction to Java/README.md)
+3. [**Variables and Methods**](./Variables%20and%20Methods/README.md)
 
 
 ## 🤝 Contributing
