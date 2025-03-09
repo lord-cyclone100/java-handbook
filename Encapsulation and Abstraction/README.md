@@ -1,6 +1,8 @@
 #### [Go Back ↩](../README.md)
 ## Java Handbook
 
+<h1>Oops chapters - abstraction and encapsulation</h1>
+
 ### Encapsulation in Java
 
 Encapsulation is a fundamental concept in Object-Oriented Programming (OOP) that bundles the data (variables) and the methods (functions) that operate on the data into a single unit, or class. It also restricts access to some of the object's components, making the object safer to use. In Java, encapsulation is implemented by making fields private and providing public getter and setter methods to access and update the values of these fields.
