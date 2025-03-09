@@ -10,16 +10,15 @@ enterprise software, and more.
 
 ---
 
-#### [Sample code](../Hello_World/README.md)
+### Navigation
+
+- [Sample Code](../Hello_World/README.md)
+- [Basics: Variables, Datatypes, and Methods](../Variables_and_Methods/README.md)
 
 ---
 
-#### [Basic : Variables, Datatypes and Methods](../Variables_and_Methods/README.md)
+### External Resources
 
----
-
-##### [Documentation](https://www.geeksforgeeks.org/introduction-to-java/) || [Tutorial](https://youtu.be/TAtrPoaJ7gc?feature=shared) || [Roadmap](https://roadmap.sh/java)
-
-
-
-
+- **Documentation:** [GeeksForGeeks - Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/)
+- **Tutorial:** [YouTube - Introduction to Java](https://youtu.be/TAtrPoaJ7gc?feature=shared)
+- **Roadmap:** [Roadmap.sh - Java](https://roadmap.sh/java)

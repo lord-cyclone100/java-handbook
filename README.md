@@ -22,6 +22,7 @@
 1. [**Hello World Program**](./Hello_World/README.md)
 2. [**Introduction to java**](Introduction_to_Java/README.md)
 3. [**Variables and Methods**](./Variables%20and%20Methods/README.md)
+4. [**Exception Handling**](Exception_Handling/README.md)
 
 
 ## 🤝 Contributing
