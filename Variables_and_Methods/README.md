@@ -1,8 +1,6 @@
 #### [Go Back ↩](../README.md)
 
-## Java Handbook
-
-### Variables in Java
+## Variables in Java
 
 Variables are used to store data values in Java. Every variable in Java has a data type that defines the kind of values it can hold. Java is a statically typed language, meaning that variable types must be explicitly declared before usage.
 
@@ -32,7 +30,7 @@ public class VariableExample {
 
 ---
 
-### Control Flow Statements in Java
+## Control Flow Statements in Java
 
 Control flow statements determine the execution flow of a Java program. Common statements include if-else, loops (for, while), and switch-case.
 
@@ -63,7 +61,7 @@ public class ControlFlowExample {
 
 ---
 
-### Methods in Java
+## Methods in Java
 
 Methods in Java allow code reuse by encapsulating a block of statements. Methods can have parameters and return values.
 

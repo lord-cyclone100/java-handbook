@@ -1,8 +1,6 @@
 #### [Go Back ↩](../README.md)
 
-## Java Handbook
-
-### Exception Handling in Java
+## Exception Handling in Java
 
 Exception handling in Java ensures that runtime errors are properly managed to prevent program crashes. It uses `try`, `catch`, `finally`, `throw`, and `throws` to handle exceptions gracefully.
 
