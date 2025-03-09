@@ -1,6 +1,8 @@
 #### [Go Back ↩](../README.md)
 
-## Variables in Java
+## Java Handbook
+
+### Variables in Java
 
 Variables are used to store data values in Java. Every variable in Java has a data type that defines the kind of values it can hold. Java is a statically typed language, meaning that variable types must be explicitly declared before usage.
 
@@ -30,11 +32,13 @@ public class VariableExample {
 
 ---
 
-## Control Flow Statements in Java
+### Control Flow Statements in Java
 
 Control flow statements determine the execution flow of a Java program. Common statements include if-else, loops (for, while), and switch-case.
 
-#### Example Program:
+#### Example Programs:
+
+- If - else and For loop statement
 ```java
 public class ControlFlowExample {
     public static void main(String[] args) {
@@ -43,9 +47,14 @@ public class ControlFlowExample {
         // If-else statement
         if (num > 0) {
             System.out.println("Positive Number");
-        } else {
+        } else if (num < 0) {
             System.out.println("Negative Number");
+        } else {
+            System.out.println("Number is 0");
         }
+
+        // Note : Both 'else if' block and 'else' block are optional.
+
 
         // For loop
         for (int i = 1; i <= 5; i++) {
@@ -55,13 +64,77 @@ public class ControlFlowExample {
 }
 ```
 
+```java
+public class ControlFlowExample {
+  public static void main(String[] args) {
+    int i = 0;
+    while (i < 5) {
+      System.out.println(i);
+      i++;
+    }  
+  }
+}
+```
+
+```java
+public class ControlFlowExample {
+  public static void main(String[] args) {
+    int day = 4;
+    switch (day) {
+      case 1:
+        System.out.println("Monday");
+        break;
+      case 2:
+        System.out.println("Tuesday");
+        break;
+      case 3:
+        System.out.println("Wednesday");
+        break;
+      case 4:
+        System.out.println("Thursday");
+        break;
+      case 5:
+        System.out.println("Friday");
+        break;
+      case 6:
+        System.out.println("Saturday");
+        break;
+      case 7:
+        System.out.println("Sunday");
+        break;
+    }
+  }
+}
+```
+
+#### Break and Continue statements
+- **Break**: Used to jump out of a loop
+- **Continue**: Used to break one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
+
+#### Conditions in java:
+- ##### Relational operators:
+	- Less than: a < b
+	- Less than or equal to: a <= b
+	- Greater than: a > b
+	- Greater than or equal to: a >= b
+	- Equal to: a == b
+	- Not Equal to: a != b
+
+- ##### Logical Operators:
+	- AND: &&
+	- OR: ||
+	- NOT: !
+
+
 #### Explanation:
 - **if-else**: Executes a block of code based on a condition.
 - **for loop**: Repeats a block of code a specific number of times.
+- **switch-case**: To choose between a number of alternatives for a given variable.
+- **while loop**: Keeps executing as long as the condition is True
 
 ---
 
-## Methods in Java
+### Methods in Java
 
 Methods in Java allow code reuse by encapsulating a block of statements. Methods can have parameters and return values.
 
