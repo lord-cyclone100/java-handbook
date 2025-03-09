@@ -1,8 +1,6 @@
 #### [Go Back ↩](../README.md)
 
-## Java Handbook
-
-### Introduction to Java
+## Introduction to Java
 
 Java is a high-level, object-oriented programming language known for its platform independence (via the JVM),
 strong memory management, and rich ecosystem. It is widely used in web development, mobile apps (Android),
