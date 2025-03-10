@@ -26,8 +26,9 @@
 5. [**Collections Framework**](Java_Collections_Framework/README.md)
 6. [**Multithreading**](Multithreading/README.md)
 7. [**Concurrency**](Concurrency/README.md)
-8. [**Java I/O File Handling**](File_Handling/README.md)
-9. [**Java I/O Stream API**](Java_IO_StreamAPI/README.md)
+8. [**Java I/O File Handling**](Java_IO/File_Handling/README.md)
+9. [**Java I/O Stream API**](Java_IO/StreamAPI/README.md)
+10. [**Java I/O Serialization & Deserialization](Java_IO/Serialization_and_Deserialization/README.md)
 
 
 ## 🤝 Contributing
