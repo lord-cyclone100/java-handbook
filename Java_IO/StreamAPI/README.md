@@ -1,4 +1,4 @@
-#### [Go Back ↩](../README.md)
+#### [Go Back ↩](../../README.md)
 
 ## Java Stream API
 
@@ -8,7 +8,7 @@ Java Stream API is used for processing collections of objects in a functional an
 
 ### 1. Creating Streams
 ```java
-import java.util.Arrays;
+import java.util.Arrays;    
 import java.util.List;
 import java.util.stream.Stream;
 
