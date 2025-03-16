@@ -25,6 +25,7 @@
 4. [**Exception Handling**](Exception_Handling/README.md)
 5. [**OOPS**](OOPS)
    1. [**Classes & Objects, Constructors, Keywords**](OOPS/Classes_Objects_Constructors_Keywords)
+   2. [**Package, Static, Singleton, In built Methods**](OOPS/Package_Static_Singleton/README.md)
 6. [**Collections Framework**](Java_Collections_Framework/README.md)
 7. [**Multithreading**](Multithreading/README.md)
 8. [**Concurrency**](Concurrency/README.md)
