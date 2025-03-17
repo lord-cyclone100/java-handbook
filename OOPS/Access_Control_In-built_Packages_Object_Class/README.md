@@ -104,4 +104,4 @@ public class ObjectClassDemo {
 - **Access Control** → [Documentation](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) || [Tutorial](https://www.geeksforgeeks.org/access-modifiers-java/)
 - **In-built Packages** → [Documentation](https://docs.oracle.com/javase/tutorial/java/package/index.html) || [Tutorial](https://www.baeldung.com/java-packages)
 - **Object Class** → [Documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html) || [Tutorial](https://www.tutorialspoint.com/java/java_object_class.htm)
-- **YouTube Tutorial** → [Java Access Modifiers (YouTube)](https://youtu.be/BSVKUk58K6U?feature=shared)  
+- **YouTube Tutorial** → [Java Access Modifiers (YouTube)](https://youtu.be/W145DXs8fFg?feature=shared)  
