@@ -61,6 +61,6 @@ O(1) (In-place sorting)
 - Inefficient for large datasets, but useful for small lists or cases where memory usage is a constraint
 
 ### External Resrouce
-[Documentation](https://www.geeksforgeeks.org/java-program-for-selection-sort/)
-[Documentation](http://tpointtech.com/selection-sort-in-java)
-[YouTube](https://youtu.be/EwjnF7rFLns?si=qdUGbbXVKDhKttFx)
+- [Documentation](https://www.geeksforgeeks.org/java-program-for-selection-sort/)
+- [Documentation](http://tpointtech.com/selection-sort-in-java)
+- [YouTube](https://youtu.be/EwjnF7rFLns?si=qdUGbbXVKDhKttFx)
