@@ -39,11 +39,11 @@
 10. [**Build Tools : Maven & Gradle**](Build_Tools/README.md)
 11. [**Basics of JDBC**](JDBC/README.md)
 12. [**Algorithm**](Algorithm)
-   1. [**Binary Insertion Sort**](Algorithm/Binary_Insertion_Sort)
-   2. [**Bubble Sort**](Algorithm/Bubble_Sort)
-   3. [**Merge Sort**](Algorithm/Merge_Sort)
-   4. [**Quick Sort**](Algorithm/Quick_Sort)
-   5. [**Selection Sort**](Algorithm/Selection_Sort)
+    1. [**Binary Insertion Sort**](Algorithm/Binary_Insertion_Sort)
+    2. [**Bubble Sort**](Algorithm/Bubble_Sort)
+    3. [**Merge Sort**](Algorithm/Merge_Sort)
+    4. [**Quick Sort**](Algorithm/Quick_Sort)
+    5. [**Selection Sort**](Algorithm/Selection_Sort)
 
 
 
