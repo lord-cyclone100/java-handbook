@@ -1,6 +1,6 @@
-<img src="./unnamed.png">
+<img src="./unnamed.png" />
 <div align="center">
-  <img height="80" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png">
+  <imgheight="80" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Symbol.png" />
 </div>
 
 # <div align="center">`Java Handbook`</div>
@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </h3>
 
 ## 🔥Overview
