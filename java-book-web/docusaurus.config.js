@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/sayanbose-0000/java-handbook',
+            href: 'https://github.com/lord-cyclone100/java-handbook',
             label: 'GitHub',
             position: 'right',
           },
